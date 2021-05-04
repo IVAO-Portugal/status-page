@@ -1,31 +1,29 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+  
+owner: ivao-portugal
+repo: status-page
 
+# Monitored sites
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://pt.ivao.aero/portal
+  - name: Events
+    url: https://events.pt.ivao.aero
+  - name: Discord Bot (Weather)
+    method: GET
+    url: $HK_ENDPOINT
+    icon: https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg
+    headers:
+      - "Accept: application/vnd.heroku+json; version=3"
+      - "Authorization: Bearer $HK_TOKEN"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /status-page
+  logoUrl: https://ivao.aero/publrelat/branding/svg_logos/pt.svg
+  name: IVAO PT Systems Status
+  introTitle: "This is an overview of our Systems."
+  introMessage: On this page you can check each one of our services status and also see planned maintenances.
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: /status-page
+    - title: Website
+      href: https://pt.ivao.aero/portal
