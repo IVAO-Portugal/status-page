@@ -17,7 +17,7 @@ sites:
       - "Authorization: Bearer $HK_TOKEN"
 
 status-website:
-  baseUrl: /status-page
+  cname: status.pt.ivao.aero # Custom CNAME
   logoUrl: https://ivao.aero/publrelat/branding/svg_logos/pt.svg
   name: IVAO PT Systems Status
   introTitle: "This is an overview of our Systems."
