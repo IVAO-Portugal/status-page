@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5723,
-    "timeDay": 1900,
+    "timeDay": 1974,
     "timeWeek": 5723,
     "timeMonth": 5723,
     "timeYear": 5723,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2604,
-    "timeDay": 1721,
+    "timeDay": 1433,
     "timeWeek": 2604,
     "timeMonth": 2604,
     "timeYear": 2604,
@@ -40,17 +40,19 @@
     "url": "$HK_ENDPOINT",
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 553,
+    "timeDay": 471,
     "timeWeek": 554,
     "timeMonth": 554,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-08": 0
+    }
   }
 ]
