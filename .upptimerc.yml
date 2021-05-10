@@ -18,7 +18,8 @@ sites:
 
 status-website:
   cname: status.pt.ivao.aero # Custom CNAME
-  logoUrl: https://pt.ivao.aero/portal/wp-content/uploads/2021/05/IG-PROFILE-PICTURE.png
+  logoUrl: https://pt.ivao.aero/assets/symbol_no_margin_white.png
+  favicon: https://pt.ivao.aero/assets/symbol_no_margin.png
   name: IVAO PT Systems Status
   introTitle: "This is an overview of our Systems."
   introMessage: On this page you can check each one of our services status and also see planned maintenances.
@@ -27,3 +28,6 @@ status-website:
       href: /status-page
     - title: Website
       href: https://pt.ivao.aero/portal
+  links:
+    - rel: stylesheet
+      href: https://status.pt.ivao.aero/custom.css
