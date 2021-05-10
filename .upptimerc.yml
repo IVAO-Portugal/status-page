@@ -25,7 +25,7 @@ status-website:
   introMessage: On this page you can check each one of our services status and also see planned maintenances.
   navbar:
     - title: Status
-      href: /status-page
+      href: /
     - title: Website
       href: https://pt.ivao.aero/portal
   links:
