@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3947,
-    "timeDay": 1690,
-    "timeWeek": 1649,
-    "timeMonth": 3947,
-    "timeYear": 3947,
-    "dailyMinutesDown": {
-      "2021-05-15": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3897,
+    "timeDay": 1225,
+    "timeWeek": 1626,
+    "timeMonth": 3897,
+    "timeYear": 3897,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Events",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2097,
-    "timeDay": 1021,
-    "timeWeek": 1698,
-    "timeMonth": 2097,
-    "timeYear": 2097,
-    "dailyMinutesDown": {
-      "2021-05-15": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2103,
+    "timeDay": 1352,
+    "timeWeek": 1732,
+    "timeMonth": 2103,
+    "timeYear": 2103,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Bot (Weather)",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 502,
-    "timeWeek": 1057,
-    "timeMonth": 862,
-    "timeYear": 862,
+    "time": 851,
+    "timeDay": 664,
+    "timeWeek": 600,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   }
 ]
