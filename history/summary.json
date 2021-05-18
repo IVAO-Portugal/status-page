@@ -4,36 +4,40 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3779,
-    "timeDay": 1145,
-    "timeWeek": 1666,
-    "timeMonth": 3779,
-    "timeYear": 3779,
-    "dailyMinutesDown": {}
+    "time": 3701,
+    "timeDay": 773,
+    "timeWeek": 1569,
+    "timeMonth": 3701,
+    "timeYear": 3701,
+    "dailyMinutesDown": {
+      "2021-05-18": 0
+    }
   },
   {
     "name": "Events",
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2077,
-    "timeDay": 1404,
-    "timeWeek": 1727,
-    "timeMonth": 2077,
-    "timeYear": 2077,
-    "dailyMinutesDown": {}
+    "time": 2021,
+    "timeDay": 929,
+    "timeWeek": 1599,
+    "timeMonth": 2021,
+    "timeYear": 2021,
+    "dailyMinutesDown": {
+      "2021-05-18": 0
+    }
   },
   {
     "name": "Discord Bot (Weather)",
