@@ -12,7 +12,7 @@
     "uptimeYear": "99.89%",
     "time": 3751,
     "timeDay": 1914,
-    "timeWeek": 2493,
+    "timeWeek": 3160,
     "timeMonth": 3751,
     "timeYear": 3751,
     "dailyMinutesDown": {
@@ -24,18 +24,20 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2071,
     "timeDay": 1707,
-    "timeWeek": 1825,
+    "timeWeek": 1792,
     "timeMonth": 2071,
     "timeYear": 2071,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-04": 0
+    }
   },
   {
     "name": "Discord Bot (Weather)",
