@@ -24,19 +24,19 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2071,
-    "timeDay": 1707,
-    "timeWeek": 1792,
-    "timeMonth": 2071,
-    "timeYear": 2071,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2064,
+    "timeDay": 1697,
+    "timeWeek": 1781,
+    "timeMonth": 2064,
+    "timeYear": 2064,
     "dailyMinutesDown": {
-      "2021-06-04": 0
+      "2021-06-04": 9
     }
   },
   {
