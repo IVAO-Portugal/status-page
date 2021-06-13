@@ -4,18 +4,19 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 3672,
-    "timeDay": 1636,
-    "timeWeek": 3414,
-    "timeMonth": 3235,
-    "timeYear": 3672,
+    "time": 3653,
+    "timeDay": 1837,
+    "timeWeek": 3300,
+    "timeMonth": 3213,
+    "timeYear": 3653,
     "dailyMinutesDown": {
+      "2021-06-13": 0,
       "2021-05-25": 50
     }
   },
@@ -26,8 +27,8 @@
     "slug": "events",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2247,
@@ -35,9 +36,7 @@
     "timeWeek": 3063,
     "timeMonth": 2250,
     "timeYear": 2247,
-    "dailyMinutesDown": {
-      "2021-06-13": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Bot (Weather)",
