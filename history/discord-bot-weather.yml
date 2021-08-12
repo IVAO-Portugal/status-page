@@ -1,7 +1,7 @@
 url: $HK_ENDPOINT
-status: down
-code: 500
-responseTime: 23884
-lastUpdated: 2021-08-12T22:36:13.098Z
+status: up
+code: 200
+responseTime: 392
+lastUpdated: 2021-08-12T22:40:53.272Z
 startTime: Tue May 04 2021 13:15:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
