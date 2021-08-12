@@ -50,8 +50,8 @@
     "slug": "discord-bot-weather",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
@@ -59,8 +59,6 @@
     "timeWeek": 617,
     "timeMonth": 669,
     "timeYear": 684,
-    "dailyMinutesDown": {
-      "2021-08-11": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
