@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "91.53%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.94%",
     "time": 6335,
     "timeDay": 11681,
     "timeWeek": 7978,
     "timeMonth": 6942,
     "timeYear": 6335,
     "dailyMinutesDown": {
-      "2021-10-13": 122
+      "2021-10-13": 130
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "94.40%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
-    "time": 3282,
-    "timeDay": 9879,
-    "timeWeek": 7168,
-    "timeMonth": 4778,
-    "timeYear": 3282,
+    "time": 3273,
+    "timeDay": 8930,
+    "timeWeek": 6974,
+    "timeMonth": 4722,
+    "timeYear": 3273,
     "dailyMinutesDown": {
       "2021-10-13": 80
     }
