@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.96%",
     "time": 6349,
     "timeDay": 13407,
@@ -16,7 +16,7 @@
     "timeMonth": 7001,
     "timeYear": 6349,
     "dailyMinutesDown": {
-      "2021-10-13": 99
+      "2021-10-13": 104
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.78%",
+    "uptimeDay": "94.77%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
