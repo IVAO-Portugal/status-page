@@ -4,19 +4,19 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "90.18%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.94%",
-    "time": 6337,
-    "timeDay": 11347,
-    "timeWeek": 7966,
-    "timeMonth": 6945,
-    "timeYear": 6337,
+    "time": 6370,
+    "timeDay": 12120,
+    "timeWeek": 8229,
+    "timeMonth": 7057,
+    "timeYear": 6370,
     "dailyMinutesDown": {
-      "2021-10-13": 142
+      "2021-10-13": 145
     }
   },
   {
