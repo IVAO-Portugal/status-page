@@ -48,17 +48,19 @@
     "url": "$HK_ENDPOINT",
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 469,
-    "timeWeek": 707,
-    "timeMonth": 622,
-    "timeYear": 781,
-    "dailyMinutesDown": {}
+    "time": 779,
+    "timeDay": 407,
+    "timeWeek": 661,
+    "timeMonth": 613,
+    "timeYear": 779,
+    "dailyMinutesDown": {
+      "2021-10-20": 0
+    }
   }
 ]
