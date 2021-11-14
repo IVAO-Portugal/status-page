@@ -13,7 +13,7 @@
     "time": 7927,
     "timeDay": 1731,
     "timeWeek": 6731,
-    "timeMonth": 10586,
+    "timeMonth": 10514,
     "timeYear": 7927,
     "dailyMinutesDown": {
       "2021-11-11": 39,
@@ -50,7 +50,7 @@
     "time": 4130,
     "timeDay": 2366,
     "timeWeek": 6127,
-    "timeMonth": 6287,
+    "timeMonth": 6277,
     "timeYear": 4130,
     "dailyMinutesDown": {
       "2021-11-09": 172,
@@ -69,19 +69,19 @@
     "url": "$HK_ENDPOINT",
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 780,
-    "timeDay": 596,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 779,
+    "timeDay": 616,
     "timeWeek": 654,
-    "timeMonth": 759,
-    "timeYear": 780,
+    "timeMonth": 756,
+    "timeYear": 779,
     "dailyMinutesDown": {
-      "2021-11-14": 0,
+      "2021-11-14": 30,
       "2021-10-20": 20
     }
   }
