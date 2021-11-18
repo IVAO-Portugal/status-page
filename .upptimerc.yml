@@ -8,13 +8,12 @@ sites:
     url: https://pt.ivao.aero/portal
   - name: Events
     url: https://events.pt.ivao.aero
+  - name: API
+    url: API_ENDPOINT
   - name: Discord Bot (Weather)
     method: GET
     url: $HK_ENDPOINT
     icon: https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg
-    headers:
-      - "Accept: application/vnd.heroku+json; version=3"
-      - "Authorization: Bearer $HK_TOKEN"
 
 status-website:
   cname: status.pt.ivao.aero # Custom CNAME
