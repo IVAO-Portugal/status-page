@@ -9,7 +9,7 @@ sites:
   - name: Events
     url: https://events.pt.ivao.aero
   - name: API
-    url: API_ENDPOINT
+    url: $API_ENDPOINT
   - name: Discord Bot (Weather)
     method: GET
     url: $HK_ENDPOINT
