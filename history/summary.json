@@ -4,18 +4,20 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7797,
-    "timeDay": 1673,
-    "timeWeek": 1944,
-    "timeMonth": 4838,
-    "timeYear": 7797,
-    "dailyMinutesDown": {}
+    "time": 7796,
+    "timeDay": 4501,
+    "timeWeek": 2617,
+    "timeMonth": 4874,
+    "timeYear": 7796,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "Events",
@@ -40,18 +42,20 @@
     "url": "$API_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8989,
-    "timeDay": 280,
-    "timeWeek": 458,
-    "timeMonth": 6759,
-    "timeYear": 8989,
-    "dailyMinutesDown": {}
+    "time": 9020,
+    "timeDay": 10186,
+    "timeWeek": 2912,
+    "timeMonth": 6924,
+    "timeYear": 9020,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "Discord Bot (Weather)",
