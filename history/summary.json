@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7792,
-    "timeDay": 3677,
-    "timeWeek": 2552,
-    "timeMonth": 4833,
-    "timeYear": 7792,
-    "dailyMinutesDown": {
-      "2022-02-03": 3
-    }
+    "time": 7787,
+    "timeDay": 3820,
+    "timeWeek": 2564,
+    "timeMonth": 4115,
+    "timeYear": 7787,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Events",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4287,
-    "timeDay": 1038,
-    "timeWeek": 1487,
-    "timeMonth": 3031,
-    "timeYear": 4287,
+    "time": 4283,
+    "timeDay": 1759,
+    "timeWeek": 1514,
+    "timeMonth": 2822,
+    "timeYear": 4283,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +42,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9025,
-    "timeDay": 10380,
-    "timeWeek": 3785,
-    "timeMonth": 6971,
-    "timeYear": 9025,
-    "dailyMinutesDown": {
-      "2022-02-03": 2
-    }
+    "time": 9001,
+    "timeDay": 10451,
+    "timeWeek": 3786,
+    "timeMonth": 6118,
+    "timeYear": 9001,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Bot (Weather)",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 301,
-    "timeWeek": 526,
-    "timeMonth": 472,
-    "timeYear": 769,
+    "time": 768,
+    "timeDay": 578,
+    "timeWeek": 529,
+    "timeMonth": 481,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   }
 ]
