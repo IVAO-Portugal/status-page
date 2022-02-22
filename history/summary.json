@@ -4,19 +4,19 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 7701,
-    "timeDay": 1577,
-    "timeWeek": 1925,
-    "timeMonth": 2103,
-    "timeYear": 7701,
+    "time": 7697,
+    "timeDay": 2055,
+    "timeWeek": 2001,
+    "timeMonth": 2116,
+    "timeYear": 7697,
     "dailyMinutesDown": {
-      "2022-02-22": 13
+      "2022-02-22": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 4215,
-    "timeDay": 1017,
-    "timeWeek": 1522,
-    "timeMonth": 1489,
-    "timeYear": 4215,
+    "time": 4216,
+    "timeDay": 2942,
+    "timeWeek": 1940,
+    "timeMonth": 1595,
+    "timeYear": 4216,
     "dailyMinutesDown": {
-      "2022-02-22": 13
+      "2022-02-22": 14
     }
   },
   {
@@ -45,19 +45,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 8578,
     "timeDay": 378,
     "timeWeek": 440,
     "timeMonth": 1330,
     "timeYear": 8578,
-    "dailyMinutesDown": {
-      "2022-02-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Bot (Weather)",
