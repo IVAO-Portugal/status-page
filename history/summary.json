@@ -4,19 +4,19 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 7656,
-    "timeDay": 2292,
-    "timeWeek": 1965,
-    "timeMonth": 2127,
-    "timeYear": 7656,
+    "time": 7652,
+    "timeDay": 2366,
+    "timeWeek": 2018,
+    "timeMonth": 2137,
+    "timeYear": 7652,
     "dailyMinutesDown": {
-      "2022-03-02": 4
+      "2022-03-02": 8
     }
   },
   {
@@ -26,18 +26,16 @@
     "slug": "events",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4205,
     "timeDay": 11052,
     "timeWeek": 3567,
     "timeMonth": 2206,
     "timeYear": 4205,
-    "dailyMinutesDown": {
-      "2022-03-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -46,18 +44,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8416,
     "timeDay": 8349,
     "timeWeek": 2384,
     "timeMonth": 1881,
     "timeYear": 8416,
-    "dailyMinutesDown": {
-      "2022-03-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Bot (Weather)",
