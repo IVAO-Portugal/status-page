@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7652,
-    "timeDay": 2366,
+    "time": 7647,
+    "timeDay": 2183,
     "timeWeek": 2018,
-    "timeMonth": 2137,
-    "timeYear": 7652,
-    "dailyMinutesDown": {
-      "2022-03-02": 8
-    }
+    "timeMonth": 2144,
+    "timeYear": 7647,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Events",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4205,
-    "timeDay": 11052,
+    "time": 4201,
+    "timeDay": 10914,
     "timeWeek": 3567,
-    "timeMonth": 2206,
-    "timeYear": 4205,
+    "timeMonth": 2215,
+    "timeYear": 4201,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8416,
-    "timeDay": 8349,
-    "timeWeek": 2384,
-    "timeMonth": 1881,
-    "timeYear": 8416,
+    "time": 8396,
+    "timeDay": 8291,
+    "timeWeek": 2380,
+    "timeMonth": 1884,
+    "timeYear": 8396,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
-    "timeDay": 595,
-    "timeWeek": 463,
-    "timeMonth": 496,
+    "timeDay": 450,
+    "timeWeek": 466,
+    "timeMonth": 502,
     "timeYear": 747,
     "dailyMinutesDown": {}
   }
