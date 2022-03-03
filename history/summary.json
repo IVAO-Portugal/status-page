@@ -13,7 +13,7 @@
     "time": 7647,
     "timeDay": 2183,
     "timeWeek": 2018,
-    "timeMonth": 2144,
+    "timeMonth": 1981,
     "timeYear": 7647,
     "dailyMinutesDown": {}
   },
@@ -24,16 +24,18 @@
     "slug": "events",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4201,
-    "timeDay": 10914,
-    "timeWeek": 3567,
-    "timeMonth": 2215,
-    "timeYear": 4201,
-    "dailyMinutesDown": {}
+    "time": 4197,
+    "timeDay": 7825,
+    "timeWeek": 3375,
+    "timeMonth": 2198,
+    "timeYear": 4197,
+    "dailyMinutesDown": {
+      "2022-03-03": 5
+    }
   },
   {
     "name": "API",
@@ -42,16 +44,18 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 8396,
-    "timeDay": 8291,
-    "timeWeek": 2380,
-    "timeMonth": 1884,
-    "timeYear": 8396,
-    "dailyMinutesDown": {}
+    "time": 8381,
+    "timeDay": 6429,
+    "timeWeek": 2413,
+    "timeMonth": 1063,
+    "timeYear": 8381,
+    "dailyMinutesDown": {
+      "2022-03-03": 5
+    }
   },
   {
     "name": "Discord Bot (Weather)",
