@@ -4,10 +4,10 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7586,
@@ -15,17 +15,19 @@
     "timeWeek": 2208,
     "timeMonth": 2062,
     "timeYear": 7586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 1
+    }
   },
   {
     "name": "Events",
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4146,
@@ -33,16 +35,18 @@
     "timeWeek": 1504,
     "timeMonth": 2084,
     "timeYear": 4146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 1
+    }
   },
   {
     "name": "API",
     "url": "$API_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 1154,
     "timeMonth": 1152,
     "timeYear": 8123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   },
   {
     "name": "Discord Bot (Weather)",
@@ -60,8 +66,8 @@
     "slug": "discord-bot-weather",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 738,
@@ -69,8 +75,6 @@
     "timeWeek": 516,
     "timeMonth": 484,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2022-03-14": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
