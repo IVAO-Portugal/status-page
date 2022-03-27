@@ -4,10 +4,10 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7522,
@@ -15,7 +15,9 @@
     "timeWeek": 2091,
     "timeMonth": 2155,
     "timeYear": 7522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 1
+    }
   },
   {
     "name": "Events",
