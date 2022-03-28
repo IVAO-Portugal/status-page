@@ -4,19 +4,19 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 7516,
-    "timeDay": 6276,
-    "timeWeek": 4236,
-    "timeMonth": 2911,
+    "timeDay": 6347,
+    "timeWeek": 4405,
+    "timeMonth": 3005,
     "timeYear": 7516,
     "dailyMinutesDown": {
-      "2022-03-28": 21
+      "2022-03-28": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 4127,
-    "timeDay": 9505,
-    "timeWeek": 4681,
-    "timeMonth": 2864,
-    "timeYear": 4127,
+    "time": 4135,
+    "timeDay": 9681,
+    "timeWeek": 5200,
+    "timeMonth": 3062,
+    "timeYear": 4135,
     "dailyMinutesDown": {
-      "2022-03-28": 20
+      "2022-03-28": 22
     }
   },
   {
