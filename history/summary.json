@@ -4,19 +4,19 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 7513,
-    "timeDay": 4680,
-    "timeWeek": 3364,
-    "timeMonth": 2566,
-    "timeYear": 7513,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 7520,
+    "timeDay": 7058,
+    "timeWeek": 4379,
+    "timeMonth": 2925,
+    "timeYear": 7520,
     "dailyMinutesDown": {
-      "2022-03-28": 22
+      "2022-03-28": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 4118,
-    "timeDay": 11426,
-    "timeWeek": 3955,
-    "timeMonth": 2595,
-    "timeYear": 4118,
+    "time": 4115,
+    "timeDay": 8272,
+    "timeWeek": 3734,
+    "timeMonth": 2577,
+    "timeYear": 4115,
     "dailyMinutesDown": {
-      "2022-03-28": 21
+      "2022-03-28": 23
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$API_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 7918,
-    "timeDay": 12886,
-    "timeWeek": 5440,
-    "timeMonth": 2435,
-    "timeYear": 7918,
+    "uptimeYear": "99.99%",
+    "time": 7900,
+    "timeDay": 10408,
+    "timeWeek": 4990,
+    "timeMonth": 2384,
+    "timeYear": 7900,
     "dailyMinutesDown": {
-      "2022-03-28": 8
+      "2022-03-28": 11
     }
   },
   {
