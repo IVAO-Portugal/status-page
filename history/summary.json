@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 7520,
     "timeDay": 7058,
     "timeWeek": 4379,
     "timeMonth": 2925,
     "timeYear": 7520,
     "dailyMinutesDown": {
-      "2022-03-28": 21
+      "2022-03-28": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://events.pt.ivao.aero",
     "icon": "https://favicons.githubusercontent.com/events.pt.ivao.aero",
     "slug": "events",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 4115,
-    "timeDay": 8272,
-    "timeWeek": 3734,
-    "timeMonth": 2577,
-    "timeYear": 4115,
+    "time": 4127,
+    "timeDay": 9505,
+    "timeWeek": 4681,
+    "timeMonth": 2864,
+    "timeYear": 4127,
     "dailyMinutesDown": {
-      "2022-03-28": 20
+      "2022-03-28": 23
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$API_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 7900,
-    "timeDay": 10408,
-    "timeWeek": 4990,
-    "timeMonth": 2384,
+    "timeDay": 9992,
+    "timeWeek": 5234,
+    "timeMonth": 2525,
     "timeYear": 7900,
     "dailyMinutesDown": {
-      "2022-03-28": 8
+      "2022-03-28": 13
     }
   },
   {
