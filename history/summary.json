@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 7516,
-    "timeDay": 6347,
-    "timeWeek": 4405,
-    "timeMonth": 3005,
-    "timeYear": 7516,
+    "uptime": "100.00%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
+    "time": 7512,
+    "timeDay": 6234,
+    "timeWeek": 4397,
+    "timeMonth": 2985,
+    "timeYear": 7512,
     "dailyMinutesDown": {
-      "2022-03-28": 24
+      "2022-03-28": 19
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "events",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 4135,
-    "timeDay": 9681,
-    "timeWeek": 5200,
-    "timeMonth": 3062,
-    "timeYear": 4135,
+    "time": 4132,
+    "timeDay": 9224,
+    "timeWeek": 5195,
+    "timeMonth": 3024,
+    "timeYear": 4132,
     "dailyMinutesDown": {
-      "2022-03-28": 22
+      "2022-03-28": 19
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 7900,
-    "timeDay": 9992,
+    "time": 7883,
+    "timeDay": 9990,
     "timeWeek": 5234,
-    "timeMonth": 2525,
-    "timeYear": 7900,
+    "timeMonth": 2475,
+    "timeYear": 7883,
     "dailyMinutesDown": {
       "2022-03-28": 8
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 564,
+    "time": 729,
+    "timeDay": 561,
     "timeWeek": 504,
-    "timeMonth": 512,
-    "timeYear": 730,
+    "timeMonth": 514,
+    "timeYear": 729,
     "dailyMinutesDown": {}
   }
 ]
