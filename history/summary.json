@@ -4,11 +4,11 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://favicons.githubusercontent.com/pt.ivao.aero",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.92%",
     "time": 7467,
     "timeDay": 8475,
@@ -16,6 +16,7 @@
     "timeMonth": 3421,
     "timeYear": 7467,
     "dailyMinutesDown": {
+      "2022-04-06": 1,
       "2022-03-29": 358,
       "2022-03-28": 19
     }
@@ -27,7 +28,7 @@
     "slug": "events",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "6.10%",
     "uptimeWeek": "56.22%",
     "uptimeMonth": "89.07%",
     "uptimeYear": "99.01%",
@@ -52,9 +53,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.82%",
     "time": 7785,
     "timeDay": 3768,
@@ -62,7 +63,6 @@
     "timeMonth": 2937,
     "timeYear": 7785,
     "dailyMinutesDown": {
-      "2022-04-06": 4,
       "2022-03-29": 358,
       "2022-03-28": 8
     }
