@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
     "status": "down",
-    "uptime": "93.21%",
+    "uptime": "93.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.99%",
-    "uptimeYear": "93.21%",
+    "uptimeMonth": "55.73%",
+    "uptimeYear": "93.17%",
     "time": 6861,
     "timeDay": 523,
     "timeWeek": 404,
     "timeMonth": 3414,
     "timeYear": 6861,
     "dailyMinutesDown": {
-      "2022-06-08": 22,
+      "2022-06-08": 136,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
@@ -106,9 +106,9 @@
     "url": "$HK_ENDPOINT",
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,6 +117,8 @@
     "timeWeek": 415,
     "timeMonth": 459,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-08": 0
+    }
   }
 ]
