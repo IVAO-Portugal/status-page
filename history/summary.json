@@ -232,19 +232,19 @@
     "url": "$HK_ENDPOINT",
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 562,
-    "timeWeek": 413,
-    "timeMonth": 450,
-    "timeYear": 540,
+    "time": 603,
+    "timeDay": 497,
+    "timeWeek": 415,
+    "timeMonth": 449,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 5
     }
   }
 ]
