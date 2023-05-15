@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.10%",
-    "time": 4041,
-    "timeDay": 2306,
-    "timeWeek": 5786,
-    "timeMonth": 3888,
-    "timeYear": 4095,
+    "uptimeYear": "99.11%",
+    "time": 4035,
+    "timeDay": 1699,
+    "timeWeek": 5815,
+    "timeMonth": 3399,
+    "timeYear": 4099,
     "dailyMinutesDown": {
       "2023-04-18": 44,
       "2023-04-05": 290,
@@ -62,8 +62,7 @@
       "2022-07-07": 100,
       "2022-06-23": 22,
       "2022-06-19": 20,
-      "2022-05-16": 257,
-      "2022-05-15": 114
+      "2022-05-16": 257
     }
   },
   {
@@ -77,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "93.36%",
-    "time": 3205,
-    "timeDay": 1495,
-    "timeWeek": 1562,
-    "timeMonth": 1556,
-    "timeYear": 3316,
+    "time": 3202,
+    "timeDay": 1171,
+    "timeWeek": 1570,
+    "timeMonth": 1553,
+    "timeYear": 3314,
     "dailyMinutesDown": {
       "2023-05-03": 1092,
       "2023-05-02": 365,
@@ -149,8 +148,7 @@
       "2022-06-21": 15,
       "2022-06-19": 17,
       "2022-06-05": 4,
-      "2022-05-16": 197,
-      "2022-05-15": 82
+      "2022-05-16": 197
     }
   },
   {
@@ -159,16 +157,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "90.58%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "86.10%",
-    "time": 2660,
-    "timeDay": 622,
-    "timeWeek": 1036,
-    "timeMonth": 1355,
-    "timeYear": 2806,
+    "uptimeYear": "86.11%",
+    "time": 2656,
+    "timeDay": 283,
+    "timeWeek": 1009,
+    "timeMonth": 1352,
+    "timeYear": 2793,
     "dailyMinutesDown": {
       "2023-04-18": 43,
       "2022-12-09": 830,
@@ -254,8 +252,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 194,
-      "2022-05-16": 189,
-      "2022-05-15": 116
+      "2022-05-16": 189
     }
   },
   {
@@ -264,18 +261,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "77.88%",
+    "uptime": "77.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.19%",
+    "uptimeYear": "54.91%",
     "time": 460,
-    "timeDay": 576,
-    "timeWeek": 415,
-    "timeMonth": 419,
-    "timeYear": 450,
+    "timeDay": 306,
+    "timeWeek": 394,
+    "timeMonth": 415,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2023-05-14": 24,
+      "2023-05-15": 23,
+      "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
