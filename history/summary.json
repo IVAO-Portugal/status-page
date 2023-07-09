@@ -4,9 +4,9 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "88.59%",
+    "uptimeDay": "88.57%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "98.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 6254,
     "timeYear": 5093,
     "dailyMinutesDown": {
+      "2023-07-09": 0,
       "2023-07-08": 164,
       "2023-07-06": 19,
       "2023-07-01": 16,
@@ -251,7 +252,7 @@
     "timeMonth": 402,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2023-07-09": 32,
+      "2023-07-09": 35,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
