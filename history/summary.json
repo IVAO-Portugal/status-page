@@ -10,11 +10,11 @@
     "uptimeWeek": "97.72%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "98.91%",
-    "time": 5011,
-    "timeDay": 5324,
-    "timeWeek": 6043,
-    "timeMonth": 6252,
-    "timeYear": 5096,
+    "time": 5013,
+    "timeDay": 5257,
+    "timeWeek": 6020,
+    "timeMonth": 6254,
+    "timeYear": 5098,
     "dailyMinutesDown": {
       "2023-07-09": 47,
       "2023-07-08": 164,
@@ -70,8 +70,7 @@
       "2022-07-14": 9,
       "2022-07-13": 63,
       "2022-07-12": 94,
-      "2022-07-11": 44,
-      "2022-07-10": 28
+      "2022-07-11": 44
     }
   },
   {
@@ -80,18 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "95.15%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptime": "95.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.03%",
     "uptimeYear": "91.31%",
-    "time": 3357,
-    "timeDay": 2486,
-    "timeWeek": 2109,
-    "timeMonth": 2186,
-    "timeYear": 3508,
+    "time": 3358,
+    "timeDay": 2433,
+    "timeWeek": 2132,
+    "timeMonth": 2196,
+    "timeYear": 3510,
     "dailyMinutesDown": {
-      "2023-07-09": 3,
       "2023-06-13": 305,
       "2023-06-12": 1432,
       "2023-06-03": 831,
@@ -158,8 +156,7 @@
       "2022-07-14": 8,
       "2022-07-13": 60,
       "2022-07-12": 93,
-      "2022-07-11": 32,
-      "2022-07-10": 28
+      "2022-07-11": 32
     }
   },
   {
@@ -174,10 +171,10 @@
     "uptimeMonth": "92.45%",
     "uptimeYear": "93.27%",
     "time": 2602,
-    "timeDay": 0,
-    "timeWeek": 1091,
-    "timeMonth": 1149,
-    "timeYear": 2437,
+    "timeDay": 438,
+    "timeWeek": 1105,
+    "timeMonth": 1150,
+    "timeYear": 2438,
     "dailyMinutesDown": {
       "2023-06-14": 436,
       "2023-06-13": 1440,
@@ -232,8 +229,7 @@
       "2022-07-15": 146,
       "2022-07-13": 57,
       "2022-07-12": 84,
-      "2022-07-11": 15,
-      "2022-07-10": 28
+      "2022-07-11": 15
     }
   },
   {
@@ -242,18 +238,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "72.32%",
+    "uptime": "72.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.60%",
+    "uptimeYear": "39.57%",
     "time": 451,
-    "timeDay": 0,
-    "timeWeek": 410,
-    "timeMonth": 402,
+    "timeDay": 441,
+    "timeWeek": 436,
+    "timeMonth": 404,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2023-07-09": 1301,
+      "2023-07-10": 29,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
