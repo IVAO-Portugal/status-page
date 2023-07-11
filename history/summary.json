@@ -4,19 +4,20 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "96.07%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "96.08%",
     "uptimeYear": "98.90%",
-    "time": 5015,
-    "timeDay": 5555,
-    "timeWeek": 6002,
+    "time": 5018,
+    "timeDay": 5549,
+    "timeWeek": 5990,
     "timeMonth": 6303,
-    "timeYear": 5086,
+    "timeYear": 5087,
     "dailyMinutesDown": {
-      "2023-07-10": 87,
+      "2023-07-11": 0,
+      "2023-07-10": 84,
       "2023-07-09": 47,
       "2023-07-08": 164,
       "2023-07-06": 19,
@@ -70,8 +71,7 @@
       "2022-07-15": 155,
       "2022-07-14": 9,
       "2022-07-13": 63,
-      "2022-07-12": 94,
-      "2022-07-11": 44
+      "2022-07-12": 94
     }
   },
   {
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.03%",
     "uptimeYear": "91.31%",
-    "time": 3368,
-    "timeDay": 2002,
-    "timeWeek": 2106,
-    "timeMonth": 2186,
-    "timeYear": 3453,
+    "time": 3369,
+    "timeDay": 1936,
+    "timeWeek": 2097,
+    "timeMonth": 2187,
+    "timeYear": 3454,
     "dailyMinutesDown": {
       "2023-06-13": 305,
       "2023-06-12": 1432,
@@ -156,8 +156,7 @@
       "2022-07-15": 151,
       "2022-07-14": 8,
       "2022-07-13": 60,
-      "2022-07-12": 93,
-      "2022-07-11": 32
+      "2022-07-12": 93
     }
   },
   {
@@ -166,15 +165,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "91.10%",
+    "uptime": "91.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.45%",
     "uptimeYear": "93.28%",
     "time": 2560,
-    "timeDay": 370,
-    "timeWeek": 977,
-    "timeMonth": 1108,
+    "timeDay": 320,
+    "timeWeek": 954,
+    "timeMonth": 1107,
     "timeYear": 2389,
     "dailyMinutesDown": {
       "2023-06-14": 436,
@@ -229,8 +228,7 @@
       "2022-07-16": 28,
       "2022-07-15": 146,
       "2022-07-13": 57,
-      "2022-07-12": 84,
-      "2022-07-11": 15
+      "2022-07-12": 84
     }
   },
   {
@@ -243,14 +241,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.32%",
-    "time": 451,
-    "timeDay": 441,
-    "timeWeek": 436,
+    "uptimeYear": "39.30%",
+    "time": 450,
+    "timeDay": 305,
+    "timeWeek": 418,
     "timeMonth": 404,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2023-07-10": 1371,
+      "2023-07-11": 18,
+      "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
