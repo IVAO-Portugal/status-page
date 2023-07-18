@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.32%",
+    "uptimeWeek": "97.15%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "98.92%",
     "time": 5149,
-    "timeDay": 1823,
-    "timeWeek": 6457,
+    "timeDay": 2056,
+    "timeWeek": 6662,
     "timeMonth": 6276,
-    "timeYear": 5208,
+    "timeYear": 5212,
     "dailyMinutesDown": {
       "2023-07-14": 15,
       "2023-07-13": 273,
@@ -66,8 +66,7 @@
       "2022-07-22": 62,
       "2022-07-21": 15,
       "2022-07-20": 139,
-      "2022-07-19": 75,
-      "2022-07-18": 108
+      "2022-07-19": 75
     }
   },
   {
@@ -81,10 +80,10 @@
     "uptimeWeek": "97.57%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "91.34%",
-    "time": 3380,
-    "timeDay": 2319,
-    "timeWeek": 1810,
-    "timeMonth": 2018,
+    "time": 3381,
+    "timeDay": 1355,
+    "timeWeek": 1735,
+    "timeMonth": 2001,
     "timeYear": 3333,
     "dailyMinutesDown": {
       "2023-07-14": 15,
@@ -148,8 +147,7 @@
       "2022-07-22": 42,
       "2022-07-21": 14,
       "2022-07-20": 69,
-      "2022-07-19": 75,
-      "2022-07-18": 99
+      "2022-07-19": 75
     }
   },
   {
@@ -158,16 +156,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "91.17%",
+    "uptime": "91.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.57%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "93.29%",
     "time": 2591,
-    "timeDay": 561,
-    "timeWeek": 1543,
-    "timeMonth": 1050,
-    "timeYear": 2322,
+    "timeDay": 408,
+    "timeWeek": 1860,
+    "timeMonth": 1053,
+    "timeYear": 2326,
     "dailyMinutesDown": {
       "2023-07-14": 16,
       "2023-07-13": 230,
@@ -218,8 +216,7 @@
       "2022-07-23": 103,
       "2022-07-22": 37,
       "2022-07-20": 56,
-      "2022-07-19": 71,
-      "2022-07-18": 95
+      "2022-07-19": 71
     }
   },
   {
@@ -228,18 +225,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "71.68%",
+    "uptime": "71.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.65%",
+    "uptimeYear": "37.38%",
     "time": 449,
-    "timeDay": 323,
-    "timeWeek": 374,
-    "timeMonth": 393,
+    "timeDay": 427,
+    "timeWeek": 394,
+    "timeMonth": 398,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-07-17": 30,
+      "2023-07-18": 44,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
