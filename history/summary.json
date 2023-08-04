@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "93.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "98.77%",
-    "time": 5235,
-    "timeDay": 1918,
-    "timeWeek": 6496,
-    "timeMonth": 6109,
+    "time": 5227,
+    "timeDay": 1973,
+    "timeWeek": 6269,
+    "timeMonth": 6107,
     "timeYear": 5248,
     "dailyMinutesDown": {
-      "2023-08-03": 1,
       "2023-07-28": 729,
       "2023-07-27": 179,
       "2023-07-23": 275,
@@ -56,8 +55,7 @@
       "2022-08-09": 138,
       "2022-08-08": 166,
       "2022-08-06": 77,
-      "2022-08-05": 39,
-      "2022-08-04": 82
+      "2022-08-05": 39
     }
   },
   {
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "91.59%",
-    "time": 3363,
-    "timeDay": 999,
-    "timeWeek": 2031,
-    "timeMonth": 1909,
-    "timeYear": 2516,
+    "time": 3360,
+    "timeDay": 1555,
+    "timeWeek": 1935,
+    "timeMonth": 1891,
+    "timeYear": 2517,
     "dailyMinutesDown": {
       "2023-07-14": 15,
       "2023-07-13": 230,
@@ -124,8 +122,7 @@
       "2022-08-09": 139,
       "2022-08-08": 164,
       "2022-08-06": 74,
-      "2022-08-05": 59,
-      "2022-08-04": 43
+      "2022-08-05": 59
     }
   },
   {
@@ -139,10 +136,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "93.58%",
-    "time": 2393,
-    "timeDay": 438,
-    "timeWeek": 1383,
-    "timeMonth": 1064,
+    "time": 2390,
+    "timeDay": 393,
+    "timeWeek": 1379,
+    "timeMonth": 1059,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2023-07-14": 16,
@@ -181,8 +178,7 @@
       "2022-08-09": 103,
       "2022-08-08": 149,
       "2022-08-06": 62,
-      "2022-08-05": 26,
-      "2022-08-04": 33
+      "2022-08-05": 26
     }
   },
   {
@@ -191,18 +187,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "70.12%",
+    "uptime": "70.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.76%",
+    "uptimeYear": "32.72%",
     "time": 445,
-    "timeDay": 285,
-    "timeWeek": 384,
-    "timeMonth": 410,
+    "timeDay": 304,
+    "timeWeek": 368,
+    "timeMonth": 406,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-08-03": 1251,
+      "2023-08-04": 24,
+      "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
