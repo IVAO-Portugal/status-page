@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.13%",
-    "time": 5127,
-    "timeDay": 1424,
-    "timeWeek": 1729,
-    "timeMonth": 3156,
-    "timeYear": 5308,
+    "time": 5124,
+    "timeDay": 1309,
+    "timeWeek": 1656,
+    "timeMonth": 3133,
+    "timeYear": 5307,
     "dailyMinutesDown": {
       "2023-10-02": 71,
       "2023-10-01": 133,
@@ -57,8 +57,7 @@
       "2022-12-30": 200,
       "2022-12-16": 79,
       "2022-10-31": 25,
-      "2022-10-26": 91,
-      "2022-10-25": 205
+      "2022-10-26": 91
     }
   },
   {
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.74%",
-    "time": 2116,
-    "timeDay": 2300,
-    "timeWeek": 1514,
-    "timeMonth": 4187,
-    "timeYear": 2152,
+    "time": 2114,
+    "timeDay": 1055,
+    "timeWeek": 1489,
+    "timeMonth": 4174,
+    "timeYear": 2151,
     "dailyMinutesDown": {
       "2023-09-23": 28,
       "2023-09-22": 40,
@@ -122,8 +121,7 @@
       "2023-03-14": 1440,
       "2023-03-13": 958,
       "2022-10-31": 40,
-      "2022-10-26": 86,
-      "2022-10-25": 205
+      "2022-10-26": 86
     }
   },
   {
@@ -132,18 +130,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "87.95%",
+    "uptime": "87.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.13%",
-    "time": 1431,
-    "timeDay": 1035,
-    "timeWeek": 920,
+    "uptimeYear": "84.86%",
+    "time": 1394,
+    "timeDay": 936,
+    "timeWeek": 938,
     "timeMonth": 1268,
-    "timeYear": 1074,
+    "timeYear": 1076,
     "dailyMinutesDown": {
-      "2023-10-24": 21,
+      "2023-10-25": 21,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -207,8 +206,7 @@
       "2022-11-20": 1440,
       "2022-11-19": 781,
       "2022-10-31": 39,
-      "2022-10-26": 86,
-      "2022-10-25": 205
+      "2022-10-26": 86
     }
   },
   {
@@ -217,18 +215,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "63.81%",
+    "uptime": "63.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.53%",
+    "uptimeYear": "10.26%",
     "time": 438,
-    "timeDay": 431,
+    "timeDay": 290,
     "timeWeek": 418,
-    "timeMonth": 411,
+    "timeMonth": 407,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2023-10-24": 21,
+      "2023-10-25": 21,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
