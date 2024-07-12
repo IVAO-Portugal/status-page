@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.61%",
-    "time": 4157,
-    "timeDay": 1911,
-    "timeWeek": 1544,
-    "timeMonth": 1720,
-    "timeYear": 3933,
+    "time": 4155,
+    "timeDay": 1920,
+    "timeWeek": 1584,
+    "timeMonth": 1715,
+    "timeYear": 3706,
     "dailyMinutesDown": {
       "2024-06-17": 116,
       "2024-05-23": 77,
@@ -37,8 +37,7 @@
       "2023-07-27": 179,
       "2023-07-23": 275,
       "2023-07-22": 854,
-      "2023-07-14": 15,
-      "2023-07-13": 273
+      "2023-07-14": 15
     }
   },
   {
@@ -47,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "85.91%",
-    "time": 2190,
-    "timeDay": 1567,
-    "timeWeek": 1776,
-    "timeMonth": 1485,
-    "timeYear": 2134,
+    "time": 2188,
+    "timeDay": 1420,
+    "timeWeek": 1705,
+    "timeMonth": 1479,
+    "timeYear": 2137,
     "dailyMinutesDown": {
       "2024-06-17": 66,
       "2024-05-23": 70,
@@ -122,8 +121,7 @@
       "2023-08-30": 65,
       "2023-08-25": 45,
       "2023-08-09": 65,
-      "2023-07-14": 15,
-      "2023-07-13": 230
+      "2023-07-14": 15
     }
   },
   {
@@ -132,16 +130,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "70.71%",
+    "uptime": "70.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "37.15%",
     "time": 2021,
-    "timeDay": 443,
-    "timeWeek": 1990,
-    "timeMonth": 2213,
-    "timeYear": 2205,
+    "timeDay": 350,
+    "timeWeek": 1989,
+    "timeMonth": 2199,
+    "timeYear": 2200,
     "dailyMinutesDown": {
       "2024-06-17": 116,
       "2024-05-23": 105,
@@ -378,8 +376,7 @@
       "2023-08-31": 1,
       "2023-08-30": 64,
       "2023-08-25": 97,
-      "2023-07-14": 16,
-      "2023-07-13": 230
+      "2023-07-14": 16
     }
   },
   {
@@ -388,18 +385,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "49.50%",
+    "uptime": "49.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 329,
-    "timeDay": 68,
-    "timeWeek": 148,
-    "timeMonth": 207,
-    "timeYear": 296,
+    "time": 328,
+    "timeDay": 71,
+    "timeWeek": 153,
+    "timeMonth": 197,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2024-07-11": 25,
+      "2024-07-12": 25,
+      "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -762,8 +760,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   }
 ]
