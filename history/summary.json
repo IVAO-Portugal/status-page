@@ -8,12 +8,12 @@
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
-    "time": 2760,
-    "timeDay": 2316,
-    "timeWeek": 1708,
-    "timeMonth": 1688,
+    "time": 2757,
+    "timeDay": 1767,
+    "timeWeek": 1735,
+    "timeMonth": 1684,
     "timeYear": 2263,
     "dailyMinutesDown": {
       "2024-09-11": 21,
@@ -45,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.99%",
-    "time": 2032,
-    "timeDay": 1446,
-    "timeWeek": 1560,
-    "timeMonth": 1395,
-    "timeYear": 2081,
+    "time": 2031,
+    "timeDay": 1304,
+    "timeWeek": 1584,
+    "timeMonth": 1394,
+    "timeYear": 2082,
     "dailyMinutesDown": {
       "2024-08-03": 20,
       "2024-06-17": 66,
@@ -110,8 +110,7 @@
       "2023-12-21": 25,
       "2023-11-19": 154,
       "2023-10-31": 75,
-      "2023-09-23": 28,
-      "2023-09-22": 40
+      "2023-09-23": 28
     }
   },
   {
@@ -120,14 +119,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "72.61%",
+    "uptime": "72.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "36.92%",
-    "time": 2316,
-    "timeDay": 2832,
-    "timeWeek": 2898,
+    "time": 2313,
+    "timeDay": 326,
+    "timeWeek": 2595,
     "timeMonth": 4251,
     "timeYear": 2658,
     "dailyMinutesDown": {
@@ -367,8 +366,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 425
+      "2023-09-23": 1440
     }
   },
   {
@@ -377,18 +375,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "46.65%",
+    "uptime": "46.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 306,
-    "timeDay": 369,
-    "timeWeek": 145,
-    "timeMonth": 327,
+    "time": 305,
+    "timeDay": 347,
+    "timeWeek": 184,
+    "timeMonth": 337,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-09-20": 28,
+      "2024-09-21": 27,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -751,8 +750,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   }
 ]
