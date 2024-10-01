@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 2661,
-    "timeDay": 1437,
-    "timeWeek": 1573,
-    "timeMonth": 1616,
+    "time": 2624,
+    "timeDay": 1821,
+    "timeWeek": 1553,
+    "timeMonth": 1610,
     "timeYear": 2226,
     "dailyMinutesDown": {
       "2024-09-11": 21,
@@ -28,8 +28,7 @@
       "2024-05-02": 58,
       "2024-03-08": 34,
       "2024-01-12": 16,
-      "2023-10-31": 75,
-      "2023-10-02": 71
+      "2023-10-31": 75
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.00%",
-    "time": 2020,
-    "timeDay": 1776,
-    "timeWeek": 1413,
-    "timeMonth": 1420,
-    "timeYear": 2090,
+    "time": 2022,
+    "timeDay": 2295,
+    "timeWeek": 1479,
+    "timeMonth": 1450,
+    "timeYear": 2091,
     "dailyMinutesDown": {
       "2024-08-03": 20,
       "2024-06-17": 66,
@@ -116,16 +115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "72.87%",
+    "uptime": "72.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "38.92%",
-    "time": 2338,
-    "timeDay": 1690,
-    "timeWeek": 3113,
-    "timeMonth": 4055,
-    "timeYear": 2717,
+    "uptimeYear": "39.20%",
+    "time": 2342,
+    "timeDay": 3203,
+    "timeWeek": 3126,
+    "timeMonth": 4082,
+    "timeYear": 2722,
     "dailyMinutesDown": {
       "2024-09-27": 5,
       "2024-09-05": 10,
@@ -354,8 +353,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -364,18 +362,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "46.28%",
+    "uptime": "46.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 302,
-    "timeDay": 149,
-    "timeWeek": 273,
-    "timeMonth": 212,
-    "timeYear": 263,
+    "timeDay": 322,
+    "timeWeek": 272,
+    "timeMonth": 217,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-09-30": 30,
+      "2024-10-01": 32,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -738,8 +737,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   }
 ]
