@@ -11,10 +11,10 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.84%",
     "time": 2543,
-    "timeDay": 1743,
-    "timeWeek": 1817,
-    "timeMonth": 2149,
-    "timeYear": 2167,
+    "timeDay": 2354,
+    "timeWeek": 1818,
+    "timeMonth": 2170,
+    "timeYear": 2168,
     "dailyMinutesDown": {
       "2024-10-12": 98,
       "2024-10-03": 39,
@@ -45,10 +45,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "86.00%",
     "time": 2020,
-    "timeDay": 1388,
-    "timeWeek": 1594,
-    "timeMonth": 1832,
-    "timeYear": 1895,
+    "timeDay": 1889,
+    "timeWeek": 1627,
+    "timeMonth": 1843,
+    "timeYear": 1897,
     "dailyMinutesDown": {
       "2024-10-03": 23,
       "2024-08-03": 20,
@@ -118,15 +118,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "73.29%",
+    "uptime": "73.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.28%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "43.54%",
+    "uptimeYear": "43.82%",
     "time": 2750,
-    "timeDay": 4081,
-    "timeWeek": 3974,
-    "timeMonth": 4435,
+    "timeDay": 717,
+    "timeWeek": 3015,
+    "timeMonth": 4438,
     "timeYear": 3025,
     "dailyMinutesDown": {
       "2024-10-12": 170,
@@ -342,8 +342,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   },
   {
@@ -352,18 +351,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "45.65%",
+    "uptime": "45.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 296,
-    "timeDay": 51,
-    "timeWeek": 219,
-    "timeMonth": 237,
+    "timeDay": 295,
+    "timeWeek": 198,
+    "timeMonth": 244,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-10-17": 29,
+      "2024-10-18": 29,
+      "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -726,8 +726,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   }
 ]
