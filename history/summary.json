@@ -11,10 +11,10 @@
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.66%",
     "time": 2258,
-    "timeDay": 2316,
-    "timeWeek": 3063,
-    "timeMonth": 2381,
-    "timeYear": 2221,
+    "timeDay": 2460,
+    "timeWeek": 3467,
+    "timeMonth": 2388,
+    "timeYear": 2222,
     "dailyMinutesDown": {
       "2024-11-10": 59,
       "2024-11-05": 32,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "85.94%",
-    "time": 2048,
-    "timeDay": 1612,
-    "timeWeek": 1591,
-    "timeMonth": 2146,
-    "timeYear": 1955,
+    "time": 2049,
+    "timeDay": 1780,
+    "timeWeek": 1773,
+    "timeMonth": 2150,
+    "timeYear": 1957,
     "dailyMinutesDown": {
       "2024-11-10": 57,
       "2024-11-05": 50,
@@ -130,15 +130,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "74.16%",
+    "uptime": "74.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "98.22%",
-    "uptimeYear": "53.79%",
-    "time": 2874,
-    "timeDay": 3211,
-    "timeWeek": 4690,
-    "timeMonth": 3962,
+    "uptimeYear": "54.07%",
+    "time": 2871,
+    "timeDay": 684,
+    "timeWeek": 4851,
+    "timeMonth": 3947,
     "timeYear": 3307,
     "dailyMinutesDown": {
       "2024-11-20": 35,
@@ -328,8 +328,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -338,18 +337,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "44.32%",
+    "uptime": "44.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 285,
-    "timeDay": 589,
-    "timeWeek": 265,
-    "timeMonth": 251,
+    "timeDay": 318,
+    "timeWeek": 284,
+    "timeMonth": 250,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-11-24": 34,
+      "2024-11-25": 32,
+      "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -712,8 +712,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   }
 ]
