@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 2391,
-    "timeDay": 1222,
-    "timeWeek": 3307,
-    "timeMonth": 3214,
-    "timeYear": 2325,
+    "time": 2386,
+    "timeDay": 1933,
+    "timeWeek": 3344,
+    "timeMonth": 3210,
+    "timeYear": 2326,
     "dailyMinutesDown": {
       "2024-11-10": 59,
       "2024-11-05": 32,
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "85.94%",
-    "time": 2074,
-    "timeDay": 1403,
-    "timeWeek": 1429,
-    "timeMonth": 2375,
+    "time": 2072,
+    "timeDay": 1825,
+    "timeWeek": 1485,
+    "timeMonth": 2377,
     "timeYear": 2017,
     "dailyMinutesDown": {
       "2024-12-04": 32,
@@ -135,12 +135,12 @@
     "uptimeDay": "99.46%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "59.48%",
-    "time": 2981,
-    "timeDay": 18585,
-    "timeWeek": 5885,
-    "timeMonth": 4158,
-    "timeYear": 3454,
+    "uptimeYear": "59.53%",
+    "time": 2985,
+    "timeDay": 12529,
+    "timeWeek": 5877,
+    "timeMonth": 4159,
+    "timeYear": 3457,
     "dailyMinutesDown": {
       "2024-12-14": 8,
       "2024-12-13": 7,
@@ -315,8 +315,7 @@
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
-      "2023-12-17": 1440,
-      "2023-12-16": 1440
+      "2023-12-17": 1440
     }
   },
   {
@@ -325,18 +324,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "43.62%",
+    "uptime": "43.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 278,
-    "timeDay": 48,
-    "timeWeek": 196,
-    "timeMonth": 237,
-    "timeYear": 236,
+    "time": 277,
+    "timeDay": 343,
+    "timeWeek": 189,
+    "timeMonth": 242,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-12-14": 1216,
+      "2024-12-15": 35,
+      "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
@@ -699,8 +699,7 @@
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
-      "2023-12-17": 1440,
-      "2023-12-16": 1440
+      "2023-12-17": 1440
     }
   }
 ]
