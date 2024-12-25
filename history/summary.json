@@ -10,11 +10,11 @@
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.64%",
-    "time": 2338,
-    "timeDay": 1677,
-    "timeWeek": 1832,
-    "timeMonth": 2986,
-    "timeYear": 2331,
+    "time": 2333,
+    "timeDay": 1851,
+    "timeWeek": 1878,
+    "timeMonth": 2976,
+    "timeYear": 2332,
     "dailyMinutesDown": {
       "2024-12-20": 19,
       "2024-12-19": 72,
@@ -56,10 +56,10 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "85.93%",
     "time": 2062,
-    "timeDay": 2322,
-    "timeWeek": 1606,
-    "timeMonth": 2354,
-    "timeYear": 2021,
+    "timeDay": 1697,
+    "timeWeek": 1671,
+    "timeMonth": 2352,
+    "timeYear": 2023,
     "dailyMinutesDown": {
       "2024-12-20": 17,
       "2024-12-19": 68,
@@ -134,18 +134,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "74.90%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "62.18%",
-    "time": 3119,
-    "timeDay": 4858,
-    "timeWeek": 4569,
-    "timeMonth": 4125,
-    "timeYear": 3522,
+    "uptime": "74.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "62.25%",
+    "time": 3122,
+    "timeDay": 4845,
+    "timeWeek": 4561,
+    "timeMonth": 4147,
+    "timeYear": 3525,
     "dailyMinutesDown": {
-      "2024-12-24": 2,
       "2024-12-20": 16,
       "2024-12-19": 66,
       "2024-12-14": 8,
@@ -311,8 +310,7 @@
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440
+      "2023-12-27": 1440
     }
   },
   {
@@ -327,12 +325,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 276,
-    "timeDay": 426,
-    "timeWeek": 285,
-    "timeMonth": 240,
+    "timeDay": 583,
+    "timeWeek": 362,
+    "timeMonth": 249,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-12-24": 1061,
+      "2024-12-25": 29,
+      "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -695,8 +694,7 @@
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
-      "2023-12-27": 1440,
-      "2023-12-26": 1440
+      "2023-12-27": 1440
     }
   }
 ]
