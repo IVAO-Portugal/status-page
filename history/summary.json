@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 2233,
-    "timeDay": 7014,
-    "timeWeek": 3465,
-    "timeMonth": 1956,
-    "timeYear": 2318,
+    "timeDay": 7085,
+    "timeWeek": 3360,
+    "timeMonth": 1950,
+    "timeYear": 2317,
     "dailyMinutesDown": {
       "2025-01-19": 179,
       "2025-01-18": 3,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "93.94%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.99%",
+    "uptimeYear": "95.19%",
     "time": 2086,
-    "timeDay": 3061,
-    "timeWeek": 1880,
-    "timeMonth": 1472,
+    "timeDay": 3204,
+    "timeWeek": 1914,
+    "timeMonth": 1473,
     "timeYear": 1988,
     "dailyMinutesDown": {
       "2025-01-19": 177,
@@ -99,8 +99,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -109,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "78.43%",
+    "uptime": "78.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.69%",
+    "uptimeYear": "77.89%",
     "time": 3311,
-    "timeDay": 1944,
-    "timeWeek": 2099,
-    "timeMonth": 3732,
-    "timeYear": 3807,
+    "timeDay": 1913,
+    "timeWeek": 2085,
+    "timeMonth": 3741,
+    "timeYear": 3808,
     "dailyMinutesDown": {
       "2025-01-19": 176,
       "2025-01-18": 2,
@@ -237,8 +236,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -247,18 +245,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "41.50%",
+    "uptime": "41.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 255,
-    "timeDay": 70,
-    "timeWeek": 158,
-    "timeMonth": 214,
+    "timeDay": 431,
+    "timeWeek": 197,
+    "timeMonth": 218,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-02-20": 402,
+      "2025-02-21": 30,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -621,8 +620,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   }
 ]
