@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 2233,
-    "timeDay": 1453,
-    "timeWeek": 3338,
-    "timeMonth": 1940,
-    "timeYear": 2317,
+    "time": 2232,
+    "timeDay": 1686,
+    "timeWeek": 3382,
+    "timeMonth": 1951,
+    "timeYear": 2316,
     "dailyMinutesDown": {
       "2025-01-19": 179,
       "2025-01-18": 3,
@@ -60,11 +60,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.47%",
+    "uptimeYear": "95.74%",
     "time": 2087,
-    "timeDay": 1370,
-    "timeWeek": 1928,
-    "timeMonth": 1468,
+    "timeDay": 1729,
+    "timeWeek": 1988,
+    "timeMonth": 1482,
     "timeYear": 1987,
     "dailyMinutesDown": {
       "2025-01-19": 177,
@@ -97,8 +97,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -107,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "78.46%",
+    "uptime": "78.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.16%",
-    "time": 3307,
-    "timeDay": 2855,
-    "timeWeek": 2000,
-    "timeMonth": 3732,
-    "timeYear": 3809,
+    "uptimeYear": "78.44%",
+    "time": 3310,
+    "timeDay": 3539,
+    "timeWeek": 2351,
+    "timeMonth": 3764,
+    "timeYear": 3810,
     "dailyMinutesDown": {
       "2025-01-19": 176,
       "2025-01-18": 2,
@@ -233,8 +232,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -243,18 +241,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "41.45%",
+    "uptime": "41.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 254,
-    "timeDay": 46,
-    "timeWeek": 193,
-    "timeMonth": 210,
+    "time": 253,
+    "timeDay": 148,
+    "timeWeek": 191,
+    "timeMonth": 213,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-02-22": 29,
+      "2025-02-23": 32,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -617,8 +616,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   }
 ]
