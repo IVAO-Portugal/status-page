@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 2234,
-    "timeDay": 1384,
-    "timeWeek": 3585,
-    "timeMonth": 2014,
-    "timeYear": 2315,
+    "time": 2233,
+    "timeDay": 1231,
+    "timeWeek": 1749,
+    "timeMonth": 2030,
+    "timeYear": 2314,
     "dailyMinutesDown": {
       "2025-01-19": 179,
       "2025-01-18": 3,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "93.97%",
+    "uptime": "93.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.84%",
-    "time": 2038,
-    "timeDay": 1773,
-    "timeWeek": 2158,
-    "timeMonth": 1530,
+    "uptimeYear": "97.11%",
+    "time": 2002,
+    "timeDay": 1579,
+    "timeWeek": 1627,
+    "timeMonth": 1545,
     "timeYear": 1987,
     "dailyMinutesDown": {
       "2025-01-19": 177,
@@ -92,8 +92,7 @@
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
-      "2024-03-01": 1440,
-      "2024-02-29": 1440
+      "2024-03-01": 1440
     }
   },
   {
@@ -102,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "78.55%",
+    "uptime": "78.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.53%",
-    "time": 3313,
-    "timeDay": 2919,
-    "timeWeek": 2438,
-    "timeMonth": 2904,
-    "timeYear": 3811,
+    "uptimeYear": "79.81%",
+    "time": 3316,
+    "timeDay": 3036,
+    "timeWeek": 2748,
+    "timeMonth": 2674,
+    "timeYear": 3812,
     "dailyMinutesDown": {
       "2025-01-19": 176,
       "2025-01-18": 2,
@@ -223,8 +222,7 @@
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
-      "2024-03-01": 1440,
-      "2024-02-29": 1440
+      "2024-03-01": 1440
     }
   },
   {
@@ -233,18 +231,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "41.30%",
+    "uptime": "41.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 252,
-    "timeDay": 74,
-    "timeWeek": 231,
+    "timeDay": 69,
+    "timeWeek": 179,
     "timeMonth": 209,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-02-27": 30,
+      "2025-02-28": 30,
+      "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
@@ -607,8 +606,7 @@
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
-      "2024-03-01": 1440,
-      "2024-02-29": 1440
+      "2024-03-01": 1440
     }
   }
 ]
