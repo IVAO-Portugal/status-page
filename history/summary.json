@@ -11,9 +11,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.54%",
     "time": 2236,
-    "timeDay": 1564,
-    "timeWeek": 1602,
-    "timeMonth": 2066,
+    "timeDay": 1664,
+    "timeWeek": 1637,
+    "timeMonth": 2073,
     "timeYear": 2303,
     "dailyMinutesDown": {
       "2025-03-17": 24,
@@ -62,10 +62,10 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.73%",
-    "time": 1942,
-    "timeDay": 1198,
-    "timeWeek": 1515,
-    "timeMonth": 1680,
+    "time": 1943,
+    "timeDay": 1388,
+    "timeWeek": 1534,
+    "timeMonth": 1690,
     "timeYear": 1984,
     "dailyMinutesDown": {
       "2025-03-17": 22,
@@ -100,12 +100,12 @@
     "uptimeDay": "97.70%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "84.97%",
-    "time": 3380,
-    "timeDay": 3454,
-    "timeWeek": 2872,
-    "timeMonth": 2565,
-    "timeYear": 3817,
+    "uptimeYear": "84.99%",
+    "time": 3383,
+    "timeDay": 3487,
+    "timeWeek": 2844,
+    "timeMonth": 2563,
+    "timeYear": 3818,
     "dailyMinutesDown": {
       "2025-03-17": 33,
       "2025-03-10": 29,
@@ -202,8 +202,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   },
   {
@@ -212,18 +211,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "40.75%",
+    "uptime": "40.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 246,
-    "timeDay": 154,
-    "timeWeek": 191,
-    "timeMonth": 197,
+    "timeDay": 445,
+    "timeWeek": 245,
+    "timeMonth": 207,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-17": 1366,
+      "2025-03-18": 31,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -586,8 +586,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   }
 ]
