@@ -1,7 +1,7 @@
 url: https://pt.ivao.aero/portal
-status: up
-code: 200
-responseTime: 1727
-lastUpdated: 2025-07-31T23:05:52.534Z
+status: down
+code: 415
+responseTime: 509
+lastUpdated: 2025-08-01T08:05:19.304Z
 startTime: 2021-05-04T13:15:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
