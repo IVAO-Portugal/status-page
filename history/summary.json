@@ -11,10 +11,10 @@
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.26%",
     "time": 1869,
-    "timeDay": 1313,
-    "timeWeek": 1636,
+    "timeDay": 1316,
+    "timeWeek": 1603,
     "timeMonth": 1493,
-    "timeYear": 1908,
+    "timeYear": 1907,
     "dailyMinutesDown": {
       "2025-09-10": 65,
       "2025-09-04": 22,
@@ -62,8 +62,7 @@
       "2024-10-21": 3,
       "2024-10-18": 50,
       "2024-10-12": 98,
-      "2024-10-03": 39,
-      "2024-09-11": 21
+      "2024-10-03": 39
     }
   },
   {
@@ -78,8 +77,8 @@
     "uptimeMonth": "95.50%",
     "uptimeYear": "98.84%",
     "time": 1851,
-    "timeDay": 1317,
-    "timeWeek": 2001,
+    "timeDay": 1279,
+    "timeWeek": 1996,
     "timeMonth": 1817,
     "timeYear": 1779,
     "dailyMinutesDown": {
@@ -132,16 +131,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "80.40%",
+    "uptime": "80.41%",
     "uptimeDay": "95.70%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "94.58%",
-    "time": 3558,
-    "timeDay": 3200,
-    "timeWeek": 4956,
-    "timeMonth": 3178,
-    "timeYear": 3650,
+    "time": 3557,
+    "timeDay": 3282,
+    "timeWeek": 4941,
+    "timeMonth": 3185,
+    "timeYear": 3651,
     "dailyMinutesDown": {
       "2025-09-10": 62,
       "2025-09-04": 17,
@@ -232,18 +231,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "36.22%",
+    "uptime": "36.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 242,
-    "timeDay": 74,
-    "timeWeek": 162,
-    "timeMonth": 233,
+    "timeDay": 49,
+    "timeWeek": 159,
+    "timeMonth": 232,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-09-10": 941,
+      "2025-09-11": 32,
+      "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -606,8 +606,7 @@
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
-      "2024-09-12": 1440,
-      "2024-09-11": 1440
+      "2024-09-12": 1440
     }
   }
 ]
