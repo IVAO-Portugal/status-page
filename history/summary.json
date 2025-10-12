@@ -10,11 +10,11 @@
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.24%",
-    "time": 1849,
-    "timeDay": 1401,
-    "timeWeek": 1306,
-    "timeMonth": 1731,
-    "timeYear": 1871,
+    "time": 1850,
+    "timeDay": 1498,
+    "timeWeek": 1292,
+    "timeMonth": 1732,
+    "timeYear": 1870,
     "dailyMinutesDown": {
       "2025-10-07": 52,
       "2025-10-02": 1,
@@ -65,8 +65,7 @@
       "2024-10-23": 139,
       "2024-10-22": 25,
       "2024-10-21": 3,
-      "2024-10-18": 50,
-      "2024-10-12": 98
+      "2024-10-18": 50
     }
   },
   {
@@ -80,10 +79,10 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.81%",
-    "time": 1796,
-    "timeDay": 1095,
-    "timeWeek": 1603,
-    "timeMonth": 1318,
+    "time": 1795,
+    "timeDay": 1041,
+    "timeWeek": 1597,
+    "timeMonth": 1317,
     "timeYear": 1712,
     "dailyMinutesDown": {
       "2025-10-07": 50,
@@ -140,16 +139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "82.40%",
+    "uptime": "82.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "94.56%",
-    "time": 3515,
-    "timeDay": 2312,
-    "timeWeek": 2048,
+    "time": 3514,
+    "timeDay": 2632,
+    "timeWeek": 2029,
     "timeMonth": 2219,
-    "timeYear": 3368,
+    "timeYear": 3369,
     "dailyMinutesDown": {
       "2025-10-07": 28,
       "2025-10-03": 5,
@@ -233,8 +232,7 @@
       "2024-10-29": 21,
       "2024-10-26": 6,
       "2024-10-20": 50,
-      "2024-10-18": 16,
-      "2024-10-12": 170
+      "2024-10-18": 16
     }
   },
   {
@@ -243,18 +241,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "35.54%",
+    "uptime": "35.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 245,
-    "timeDay": 47,
-    "timeWeek": 141,
-    "timeMonth": 248,
-    "timeYear": 245,
+    "timeDay": 50,
+    "timeWeek": 136,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-10-11": 30,
+      "2025-10-12": 34,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -617,8 +616,7 @@
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   }
 ]
