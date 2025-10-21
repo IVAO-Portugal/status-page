@@ -1,7 +1,7 @@
 url: https://events.pt.ivao.aero
-status: up
-code: 200
-responseTime: 1262
-lastUpdated: 2025-10-20T23:04:50.512Z
+status: down
+code: 415
+responseTime: 498
+lastUpdated: 2025-10-21T03:57:20.637Z
 startTime: 2021-05-04T13:15:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
