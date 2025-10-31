@@ -10,10 +10,10 @@
     "uptimeWeek": "98.07%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.33%",
-    "time": 1899,
-    "timeDay": 1111,
-    "timeWeek": 3439,
-    "timeMonth": 2284,
+    "time": 1898,
+    "timeDay": 1252,
+    "timeWeek": 3438,
+    "timeMonth": 2276,
     "timeYear": 1923,
     "dailyMinutesDown": {
       "2025-10-28": 44,
@@ -60,8 +60,7 @@
       "2024-12-19": 72,
       "2024-11-10": 59,
       "2024-11-05": 32,
-      "2024-11-03": 349,
-      "2024-10-31": 24
+      "2024-11-03": 349
     }
   },
   {
@@ -70,15 +69,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.79%",
     "time": 1741,
-    "timeDay": 1052,
-    "timeWeek": 3280,
-    "timeMonth": 1967,
+    "timeDay": 1056,
+    "timeWeek": 3276,
+    "timeMonth": 1960,
     "timeYear": 1761,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -127,8 +126,7 @@
       "2024-12-04": 32,
       "2024-11-10": 57,
       "2024-11-05": 50,
-      "2024-11-03": 346,
-      "2024-10-31": 22
+      "2024-11-03": 346
     }
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "94.58%",
-    "time": 3364,
-    "timeDay": 1539,
-    "timeWeek": 3828,
-    "timeMonth": 2598,
-    "timeYear": 3309,
+    "time": 3362,
+    "timeDay": 351,
+    "timeWeek": 3746,
+    "timeMonth": 2581,
+    "timeYear": 3303,
     "dailyMinutesDown": {
       "2025-10-28": 38,
       "2025-10-25": 90,
@@ -227,8 +225,7 @@
       "2024-11-15": 4,
       "2024-11-10": 56,
       "2024-11-05": 237,
-      "2024-11-03": 344,
-      "2024-10-31": 18
+      "2024-11-03": 344
     }
   },
   {
@@ -237,18 +234,19 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "35.13%",
+    "uptime": "35.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 244,
-    "timeDay": 49,
-    "timeWeek": 183,
-    "timeMonth": 214,
-    "timeYear": 243,
+    "timeDay": 331,
+    "timeWeek": 224,
+    "timeMonth": 218,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-10-30": 35,
+      "2025-10-31": 34,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -611,8 +609,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   }
 ]
