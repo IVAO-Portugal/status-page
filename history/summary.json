@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.40%",
     "time": 1885,
     "timeDay": 1265,
@@ -16,7 +16,6 @@
     "timeMonth": 1914,
     "timeYear": 1864,
     "dailyMinutesDown": {
-      "2025-11-08": 5,
       "2025-10-28": 44,
       "2025-10-25": 151,
       "2025-10-07": 52,
@@ -68,10 +67,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "94.78%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.69%",
+    "uptime": "94.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "98.87%",
     "time": 1699,
     "timeDay": 1044,
@@ -79,7 +78,6 @@
     "timeMonth": 1706,
     "timeYear": 1689,
     "dailyMinutesDown": {
-      "2025-11-08": 5,
       "2025-10-28": 39,
       "2025-10-25": 89,
       "2025-10-21": 5,
@@ -134,9 +132,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "94.70%",
     "time": 3263,
     "timeDay": 2348,
@@ -144,7 +142,6 @@
     "timeMonth": 2563,
     "timeYear": 3217,
     "dailyMinutesDown": {
-      "2025-11-08": 5,
       "2025-10-28": 38,
       "2025-10-25": 90,
       "2025-10-21": 5,
@@ -231,7 +228,7 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "34.92%",
+    "uptime": "34.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -242,7 +239,8 @@
     "timeMonth": 198,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-11-08": 1406,
+      "2025-11-09": 37,
+      "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -605,8 +603,7 @@
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
-      "2024-11-10": 1440,
-      "2024-11-09": 1440
+      "2024-11-10": 1440
     }
   }
 ]
