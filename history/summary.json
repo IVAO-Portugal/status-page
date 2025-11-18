@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.41%",
     "time": 1928,
     "timeDay": 1229,
@@ -16,7 +16,6 @@
     "timeMonth": 2127,
     "timeYear": 1908,
     "dailyMinutesDown": {
-      "2025-11-17": 5,
       "2025-11-11": 5,
       "2025-10-28": 44,
       "2025-10-25": 151,
@@ -69,9 +68,9 @@
     "slug": "events",
     "status": "up",
     "uptime": "94.76%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "89.39%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.44%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "98.68%",
     "time": 1697,
     "timeDay": 1082,
@@ -79,7 +78,6 @@
     "timeMonth": 1762,
     "timeYear": 1688,
     "dailyMinutesDown": {
-      "2025-11-17": 5,
       "2025-11-13": 1055,
       "2025-11-12": 10,
       "2025-10-28": 39,
@@ -134,10 +132,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "99.18%",
+    "uptime": "98.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "94.67%",
     "time": 3291,
     "timeDay": 3075,
@@ -145,7 +143,6 @@
     "timeMonth": 3089,
     "timeYear": 3259,
     "dailyMinutesDown": {
-      "2025-11-17": 5,
       "2025-11-15": 204,
       "2025-11-12": 10,
       "2025-11-11": 5,
@@ -233,7 +230,7 @@
     "icon": "https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg",
     "slug": "discord-bot-weather",
     "status": "down",
-    "uptime": "34.73%",
+    "uptime": "34.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -244,7 +241,8 @@
     "timeMonth": 194,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-11-17": 1401,
+      "2025-11-18": 34,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -607,8 +605,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   }
 ]
