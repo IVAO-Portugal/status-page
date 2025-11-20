@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.49%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.41%",
     "time": 1916,
     "timeDay": 1278,
     "timeWeek": 2838,
-    "timeMonth": 2085,
+    "timeMonth": 2091,
     "timeYear": 1876,
     "dailyMinutesDown": {
-      "2025-11-19": 3,
       "2025-11-18": 20,
       "2025-11-11": 5,
       "2025-10-28": 44,
@@ -70,17 +69,16 @@
     "slug": "events",
     "status": "up",
     "uptime": "94.77%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "89.16%",
-    "uptimeMonth": "97.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "98.67%",
     "time": 1685,
     "timeDay": 1330,
     "timeWeek": 2011,
-    "timeMonth": 1746,
+    "timeMonth": 1752,
     "timeYear": 1674,
     "dailyMinutesDown": {
-      "2025-11-19": 3,
       "2025-11-18": 35,
       "2025-11-13": 1055,
       "2025-11-12": 10,
@@ -137,17 +135,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "94.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "94.68%",
     "time": 3266,
     "timeDay": 2400,
     "timeWeek": 3626,
-    "timeMonth": 3079,
+    "timeMonth": 3090,
     "timeYear": 3204,
     "dailyMinutesDown": {
-      "2025-11-19": 3,
       "2025-11-18": 16,
       "2025-11-15": 204,
       "2025-11-12": 10,
@@ -225,8 +222,7 @@
       "2024-12-11": 4,
       "2024-12-01": 4,
       "2024-11-27": 55,
-      "2024-11-26": 5,
-      "2024-11-20": 35
+      "2024-11-26": 5
     }
   },
   {
@@ -246,7 +242,8 @@
     "timeMonth": 196,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-11-19": 1436,
+      "2025-11-20": 34,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -609,8 +606,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   }
 ]
