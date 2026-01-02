@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.36%",
     "time": 1752,
-    "timeDay": 1557,
-    "timeWeek": 1569,
-    "timeMonth": 1523,
+    "timeDay": 1533,
+    "timeWeek": 1563,
+    "timeMonth": 1526,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2026-01-01": 3,
       "2025-12-30": 5,
       "2025-12-27": 5,
       "2025-12-26": 5,
@@ -69,8 +68,7 @@
       "2025-02-28": 94,
       "2025-01-19": 179,
       "2025-01-18": 3,
-      "2025-01-12": 32,
-      "2025-01-02": 99
+      "2025-01-12": 32
     }
   },
   {
@@ -79,18 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "98.63%",
+    "uptime": "96.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "98.64%",
     "time": 1492,
-    "timeDay": 1115,
-    "timeWeek": 1182,
-    "timeMonth": 1257,
+    "timeDay": 1139,
+    "timeWeek": 1177,
+    "timeMonth": 1258,
     "timeYear": 1462,
     "dailyMinutesDown": {
-      "2026-01-01": 4,
       "2025-12-30": 5,
       "2025-12-27": 5,
       "2025-12-26": 5,
@@ -145,8 +142,7 @@
       "2025-03-17": 22,
       "2025-02-28": 89,
       "2025-01-19": 177,
-      "2025-01-12": 30,
-      "2025-01-02": 98
+      "2025-01-12": 30
     }
   },
   {
@@ -156,17 +152,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "94.81%",
-    "time": 2785,
-    "timeDay": 1947,
-    "timeWeek": 1913,
+    "time": 2783,
+    "timeDay": 1937,
+    "timeWeek": 1911,
     "timeMonth": 2192,
-    "timeYear": 2684,
+    "timeYear": 2683,
     "dailyMinutesDown": {
-      "2026-01-01": 4,
       "2025-12-30": 5,
       "2025-12-29": 10,
       "2025-12-27": 5,
@@ -247,8 +242,7 @@
       "2025-01-19": 176,
       "2025-01-18": 2,
       "2025-01-16": 4,
-      "2025-01-12": 38,
-      "2025-01-02": 97
+      "2025-01-12": 38
     }
   }
 ]
