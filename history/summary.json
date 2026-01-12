@@ -6,8 +6,8 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.38%",
     "time": 1721,
@@ -16,7 +16,6 @@
     "timeMonth": 1505,
     "timeYear": 1647,
     "dailyMinutesDown": {
-      "2026-01-11": 2,
       "2025-12-30": 5,
       "2025-12-27": 5,
       "2025-12-26": 5,
@@ -68,8 +67,7 @@
       "2025-03-17": 24,
       "2025-02-28": 94,
       "2025-01-19": 179,
-      "2025-01-18": 3,
-      "2025-01-12": 32
+      "2025-01-18": 3
     }
   },
   {
@@ -78,18 +76,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "up",
-    "uptime": "96.60%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.81%",
+    "uptime": "96.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.65%",
     "time": 1456,
     "timeDay": 1297,
-    "timeWeek": 1147,
-    "timeMonth": 1254,
+    "timeWeek": 1149,
+    "timeMonth": 1253,
     "timeYear": 1424,
     "dailyMinutesDown": {
-      "2026-01-11": 2,
       "2025-12-30": 5,
       "2025-12-27": 5,
       "2025-12-26": 5,
@@ -143,8 +140,7 @@
       "2025-03-21": 94,
       "2025-03-17": 22,
       "2025-02-28": 89,
-      "2025-01-19": 177,
-      "2025-01-12": 30
+      "2025-01-19": 177
     }
   },
   {
@@ -154,17 +150,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "94.83%",
     "time": 2658,
     "timeDay": 2152,
-    "timeWeek": 1995,
+    "timeWeek": 2005,
     "timeMonth": 2077,
     "timeYear": 2606,
     "dailyMinutesDown": {
-      "2026-01-11": 3,
       "2025-12-30": 5,
       "2025-12-29": 10,
       "2025-12-27": 5,
@@ -244,8 +239,7 @@
       "2025-02-28": 88,
       "2025-01-19": 176,
       "2025-01-18": 2,
-      "2025-01-16": 4,
-      "2025-01-12": 38
+      "2025-01-16": 4
     }
   }
 ]
