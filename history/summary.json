@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "99.16%",
     "time": 1600,
-    "timeDay": 1697,
-    "timeWeek": 1423,
-    "timeMonth": 1640,
-    "timeYear": 1573,
+    "timeDay": 1995,
+    "timeWeek": 1444,
+    "timeMonth": 1638,
+    "timeYear": 1572,
     "dailyMinutesDown": {
-      "2026-03-20": 5,
       "2026-03-09": 820,
       "2026-03-08": 20,
       "2026-02-22": 159,
@@ -77,8 +76,7 @@
       "2025-05-07": 21,
       "2025-04-17": 30,
       "2025-04-06": 160,
-      "2025-04-05": 105,
-      "2025-03-21": 96
+      "2025-04-05": 105
     }
   },
   {
@@ -87,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "down",
-    "uptime": "96.10%",
+    "uptime": "96.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.58%",
-    "uptimeYear": "95.17%",
+    "uptimeMonth": "57.37%",
+    "uptimeYear": "95.07%",
     "time": 1336,
-    "timeDay": 473,
-    "timeWeek": 487,
-    "timeMonth": 1250,
-    "timeYear": 1310,
+    "timeDay": 432,
+    "timeWeek": 466,
+    "timeMonth": 1247,
+    "timeYear": 1309,
     "dailyMinutesDown": {
-      "2026-03-20": 956,
+      "2026-03-21": 43,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -172,8 +171,7 @@
       "2025-05-07": 20,
       "2025-04-17": 29,
       "2025-04-06": 159,
-      "2025-04-05": 103,
-      "2025-03-21": 94
+      "2025-04-05": 103
     }
   },
   {
@@ -183,17 +181,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "94.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "94.81%",
     "time": 2508,
-    "timeDay": 2445,
-    "timeWeek": 3140,
+    "timeDay": 2572,
+    "timeWeek": 3112,
     "timeMonth": 2886,
     "timeYear": 2455,
     "dailyMinutesDown": {
-      "2026-03-20": 5,
       "2026-02-28": 5,
       "2026-02-25": 5,
       "2026-02-21": 5,
@@ -280,8 +277,7 @@
       "2025-04-17": 27,
       "2025-04-10": 29,
       "2025-04-06": 157,
-      "2025-04-05": 102,
-      "2025-03-21": 91
+      "2025-04-05": 102
     }
   }
 ]
