@@ -88,7 +88,7 @@
     "uptime": "95.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.98%",
+    "uptimeMonth": "12.96%",
     "uptimeYear": "91.38%",
     "time": 1325,
     "timeDay": 383,
@@ -96,7 +96,7 @@
     "timeMonth": 1099,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2026-04-03": 781,
+      "2026-04-03": 787,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -192,19 +192,19 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "5.01%",
-    "uptimeWeek": "74.30%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "98.75%",
-    "time": 2532,
+    "uptimeDay": "4.98%",
+    "uptimeWeek": "74.29%",
+    "uptimeMonth": "94.08%",
+    "uptimeYear": "98.76%",
+    "time": 2531,
     "timeDay": 7703,
     "timeWeek": 4178,
     "timeMonth": 3259,
     "timeYear": 2502,
     "dailyMinutesDown": {
-      "2026-04-03": 745,
+      "2026-04-03": 746,
       "2026-04-02": 1168,
       "2026-04-01": 677,
       "2026-02-28": 5,
@@ -266,8 +266,7 @@
       "2025-07-30": 5,
       "2025-07-26": 80,
       "2025-07-18": 311,
-      "2025-07-16": 4,
-      "2025-07-14": 9
+      "2025-07-16": 4
     }
   }
 ]
