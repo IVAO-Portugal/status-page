@@ -1,7 +1,7 @@
 url: $API_ENDPOINT
-status: up
-code: 200
-responseTime: 3372
-lastUpdated: 2026-04-12T20:40:34.255Z
+status: down
+code: 415
+responseTime: 602
+lastUpdated: 2026-04-12T20:54:31.837Z
 startTime: 2021-11-18T18:46:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
