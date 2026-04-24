@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.33%",
+    "uptime": "99.76%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.17%",
     "time": 1552,
     "timeDay": 1190,
@@ -16,7 +16,6 @@
     "timeMonth": 1469,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2026-04-24": 5,
       "2026-04-23": 135,
       "2026-04-22": 40,
       "2026-04-19": 5,
@@ -96,14 +95,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.83%",
+    "uptimeYear": "85.82%",
     "time": 1319,
     "timeDay": 517,
     "timeWeek": 469,
     "timeMonth": 472,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2026-04-24": 41,
+      "2026-04-24": 59,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -219,9 +218,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "93.09%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "88.83%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "88.84%",
     "uptimeYear": "98.81%",
     "time": 2507,
     "timeDay": 1982,
@@ -229,7 +228,6 @@
     "timeMonth": 2659,
     "timeYear": 2487,
     "dailyMinutesDown": {
-      "2026-04-24": 5,
       "2026-04-23": 135,
       "2026-04-22": 40,
       "2026-04-19": 5,
@@ -283,7 +281,8 @@
       "2025-11-11": 5,
       "2025-10-28": 38,
       "2025-10-25": 90,
-      "2025-10-21": 5
+      "2025-10-21": 5,
+      "2025-10-07": 28
     }
   }
 ]
