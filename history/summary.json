@@ -4,16 +4,16 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "96.42%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "98.88%",
-    "time": 1596,
-    "timeDay": 2976,
-    "timeWeek": 2385,
-    "timeMonth": 2021,
+    "time": 1595,
+    "timeDay": 2972,
+    "timeWeek": 2386,
+    "timeMonth": 2022,
     "timeYear": 1588,
     "dailyMinutesDown": {
       "2025-06-12": 278,
@@ -84,7 +84,7 @@
       "2026-04-24": 15,
       "2026-05-07": 1235,
       "2026-05-06": 324,
-      "2026-05-24": 4
+      "2026-05-24": 1
     }
   },
   {
@@ -93,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "down",
-    "uptime": "92.72%",
+    "uptime": "92.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.43%",
+    "uptimeYear": "77.40%",
     "time": 1308,
     "timeDay": 422,
     "timeWeek": 490,
@@ -161,7 +161,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-05-24": 1001,
+      "2026-05-24": 1186,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -246,15 +246,15 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "98.81%",
     "time": 2531,
-    "timeDay": 2843,
-    "timeWeek": 2784,
+    "timeDay": 2756,
+    "timeWeek": 2775,
     "timeMonth": 2707,
     "timeYear": 2510,
     "dailyMinutesDown": {
@@ -315,7 +315,7 @@
       "2026-05-07": 235,
       "2026-05-08": 41,
       "2026-05-20": 10,
-      "2026-05-24": 4
+      "2026-05-24": 1
     }
   }
 ]
