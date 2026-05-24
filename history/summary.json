@@ -4,16 +4,16 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.42%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "98.88%",
-    "time": 1595,
-    "timeDay": 2909,
-    "timeWeek": 2358,
-    "timeMonth": 2013,
+    "time": 1594,
+    "timeDay": 2840,
+    "timeWeek": 2344,
+    "timeMonth": 2010,
     "timeYear": 1587,
     "dailyMinutesDown": {
       "2025-06-12": 278,
@@ -84,7 +84,7 @@
       "2026-04-24": 15,
       "2026-05-07": 1235,
       "2026-05-06": 324,
-      "2026-05-24": 5
+      "2026-05-24": 1
     }
   },
   {
@@ -97,7 +97,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.44%",
+    "uptimeYear": "77.43%",
     "time": 1308,
     "timeDay": 422,
     "timeWeek": 490,
@@ -161,7 +161,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-05-24": 981,
+      "2026-05-24": 996,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -246,16 +246,16 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "98.81%",
     "time": 2531,
-    "timeDay": 2845,
-    "timeWeek": 2783,
-    "timeMonth": 2707,
+    "timeDay": 2779,
+    "timeWeek": 2766,
+    "timeMonth": 2703,
     "timeYear": 2510,
     "dailyMinutesDown": {
       "2025-11-12": 10,
@@ -315,7 +315,7 @@
       "2026-05-07": 235,
       "2026-05-08": 41,
       "2026-05-20": 10,
-      "2026-05-24": 5
+      "2026-05-24": 0
     }
   }
 ]
