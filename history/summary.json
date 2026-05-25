@@ -4,16 +4,16 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "91.28%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "96.15%",
     "uptimeYear": "98.86%",
     "time": 1601,
-    "timeDay": 3146,
-    "timeWeek": 2413,
-    "timeMonth": 2030,
+    "timeDay": 3062,
+    "timeWeek": 2399,
+    "timeMonth": 2027,
     "timeYear": 1590,
     "dailyMinutesDown": {
       "2025-06-12": 278,
@@ -84,7 +84,8 @@
       "2026-04-24": 15,
       "2026-05-07": 1235,
       "2026-05-06": 324,
-      "2026-05-24": 125
+      "2026-05-24": 125,
+      "2026-05-25": 1
     }
   },
   {
@@ -97,7 +98,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.34%",
+    "uptimeYear": "77.32%",
     "time": 1307,
     "timeDay": 669,
     "timeWeek": 489,
@@ -161,7 +162,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-05-25": 74,
+      "2026-05-25": 156,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -247,19 +248,19 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "91.33%",
-    "uptimeWeek": "98.67%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.79%",
     "time": 2530,
-    "timeDay": 2831,
-    "timeWeek": 2789,
-    "timeMonth": 2710,
-    "timeYear": 2512,
+    "timeDay": 2755,
+    "timeWeek": 2772,
+    "timeMonth": 2705,
+    "timeYear": 2511,
     "dailyMinutesDown": {
-      "2025-11-12": 10,
+      "2025-11-12": 5,
       "2025-11-15": 204,
       "2025-11-18": 16,
       "2025-11-21": 31,
@@ -316,7 +317,8 @@
       "2026-05-07": 235,
       "2026-05-08": 41,
       "2026-05-20": 10,
-      "2026-05-24": 125
+      "2026-05-24": 125,
+      "2026-05-25": 1
     }
   }
 ]
