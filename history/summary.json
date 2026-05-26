@@ -4,16 +4,16 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.73%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "96.15%",
     "uptimeYear": "98.86%",
     "time": 1610,
-    "timeDay": 2252,
-    "timeWeek": 2453,
-    "timeMonth": 2024,
+    "timeDay": 1927,
+    "timeWeek": 2442,
+    "timeMonth": 2023,
     "timeYear": 1599,
     "dailyMinutesDown": {
       "2025-06-12": 278,
@@ -85,7 +85,7 @@
       "2026-05-07": 1235,
       "2026-05-06": 324,
       "2026-05-24": 125,
-      "2026-05-26": 3
+      "2026-05-26": 1
     }
   },
   {
@@ -94,15 +94,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "down",
-    "uptime": "92.61%",
+    "uptime": "92.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.82%",
+    "uptimeYear": "76.81%",
     "time": 1307,
     "timeDay": 454,
     "timeWeek": 500,
-    "timeMonth": 529,
+    "timeMonth": 534,
     "timeYear": 1279,
     "dailyMinutesDown": {
       "2025-06-12": 277,
@@ -162,7 +162,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-05-26": 1356,
+      "2026-05-26": 1401,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -249,16 +249,16 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "98.79%",
-    "time": 2530,
-    "timeDay": 2460,
-    "timeWeek": 2730,
-    "timeMonth": 2740,
+    "time": 2529,
+    "timeDay": 2322,
+    "timeWeek": 2718,
+    "timeMonth": 2737,
     "timeYear": 2512,
     "dailyMinutesDown": {
       "2025-11-12": 5,
@@ -319,7 +319,7 @@
       "2026-05-08": 41,
       "2026-05-20": 10,
       "2026-05-24": 125,
-      "2026-05-26": 3
+      "2026-05-26": 1
     }
   }
 ]
