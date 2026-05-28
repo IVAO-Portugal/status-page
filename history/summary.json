@@ -4,16 +4,16 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "96.06%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "98.85%",
     "time": 1608,
-    "timeDay": 1781,
-    "timeWeek": 2386,
-    "timeMonth": 2034,
+    "timeDay": 1747,
+    "timeWeek": 2391,
+    "timeMonth": 2031,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2025-06-12": 278,
@@ -86,7 +86,7 @@
       "2026-05-06": 324,
       "2026-05-24": 125,
       "2026-05-27": 34,
-      "2026-05-28": 5
+      "2026-05-28": 1
     }
   },
   {
@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.pt.ivao.aero.ico",
     "slug": "events",
     "status": "down",
-    "uptime": "92.54%",
+    "uptime": "92.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.43%",
+    "uptimeYear": "76.42%",
     "time": 1307,
     "timeDay": 0,
     "timeWeek": 534,
@@ -163,7 +163,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-05-28": 496,
+      "2026-05-28": 545,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -252,16 +252,16 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "98.78%",
     "time": 2533,
-    "timeDay": 2527,
-    "timeWeek": 2718,
-    "timeMonth": 2752,
+    "timeDay": 2471,
+    "timeWeek": 2713,
+    "timeMonth": 2748,
     "timeYear": 2514,
     "dailyMinutesDown": {
       "2025-11-15": 199,
@@ -322,7 +322,7 @@
       "2026-05-20": 10,
       "2026-05-24": 125,
       "2026-05-27": 34,
-      "2026-05-28": 5
+      "2026-05-28": 1
     }
   }
 ]
