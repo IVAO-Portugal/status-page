@@ -4,16 +4,16 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "98.85%",
     "time": 1613,
-    "timeDay": 1264,
-    "timeWeek": 2126,
-    "timeMonth": 2071,
+    "timeDay": 1098,
+    "timeWeek": 2125,
+    "timeMonth": 2068,
     "timeYear": 1602,
     "dailyMinutesDown": {
       "2025-06-12": 278,
@@ -86,7 +86,7 @@
       "2026-05-06": 324,
       "2026-05-24": 125,
       "2026-05-27": 34,
-      "2026-05-31": 4
+      "2026-05-31": 1
     }
   },
   {
@@ -99,7 +99,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.44%",
+    "uptimeYear": "75.43%",
     "time": 1306,
     "timeDay": 690,
     "timeWeek": 507,
@@ -163,7 +163,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-05-31": 1411,
+      "2026-05-31": 1429,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -255,17 +255,17 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "98.78%",
     "time": 2534,
-    "timeDay": 3764,
-    "timeWeek": 2760,
-    "timeMonth": 2812,
-    "timeYear": 2519,
+    "timeDay": 3098,
+    "timeWeek": 2758,
+    "timeMonth": 2807,
+    "timeYear": 2518,
     "dailyMinutesDown": {
       "2025-11-15": 199,
       "2025-11-18": 16,
@@ -325,7 +325,7 @@
       "2026-05-20": 10,
       "2026-05-24": 125,
       "2026-05-27": 34,
-      "2026-05-31": 4
+      "2026-05-31": 1
     }
   }
 ]
