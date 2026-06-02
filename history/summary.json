@@ -4,16 +4,16 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "96.01%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "96.04%",
     "uptimeYear": "98.85%",
     "time": 1630,
-    "timeDay": 2252,
-    "timeWeek": 2205,
-    "timeMonth": 2148,
+    "timeDay": 2229,
+    "timeWeek": 2196,
+    "timeMonth": 2145,
     "timeYear": 1620,
     "dailyMinutesDown": {
       "2025-06-12": 278,
@@ -86,7 +86,7 @@
       "2026-05-06": 324,
       "2026-05-24": 125,
       "2026-05-27": 34,
-      "2026-06-02": 30
+      "2026-06-02": 16
     }
   },
   {
@@ -99,7 +99,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.97%",
+    "uptimeYear": "74.96%",
     "time": 1305,
     "timeDay": 396,
     "timeWeek": 497,
@@ -163,7 +163,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-06-02": 1011,
+      "2026-06-02": 1027,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -257,16 +257,16 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "98.82%",
-    "time": 2534,
-    "timeDay": 2491,
-    "timeWeek": 2626,
-    "timeMonth": 2769,
+    "time": 2533,
+    "timeDay": 2465,
+    "timeWeek": 2615,
+    "timeMonth": 2765,
     "timeYear": 2517,
     "dailyMinutesDown": {
       "2025-11-18": 16,
@@ -326,7 +326,7 @@
       "2026-05-20": 10,
       "2026-05-24": 125,
       "2026-05-27": 34,
-      "2026-06-02": 30
+      "2026-06-02": 16
     }
   }
 ]
