@@ -4,17 +4,17 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "95.89%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "98.84%",
-    "time": 1640,
-    "timeDay": 2353,
-    "timeWeek": 2246,
-    "timeMonth": 2182,
-    "timeYear": 1631,
+    "time": 1641,
+    "timeDay": 2392,
+    "timeWeek": 2266,
+    "timeMonth": 2190,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2025-06-12": 278,
       "2025-06-14": 120,
@@ -87,7 +87,7 @@
       "2026-05-24": 125,
       "2026-05-27": 34,
       "2026-06-02": 35,
-      "2026-06-03": 46
+      "2026-06-03": 50
     }
   },
   {
@@ -164,7 +164,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-06-03": 266,
+      "2026-06-03": 271,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -259,16 +259,16 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.47%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "98.82%",
-    "time": 2526,
-    "timeDay": 2214,
-    "timeWeek": 2439,
-    "timeMonth": 2704,
+    "time": 2527,
+    "timeDay": 2239,
+    "timeWeek": 2451,
+    "timeMonth": 2708,
     "timeYear": 2507,
     "dailyMinutesDown": {
       "2025-12-01": 33,
@@ -326,7 +326,7 @@
       "2026-05-24": 125,
       "2026-05-27": 34,
       "2026-06-02": 35,
-      "2026-06-03": 46
+      "2026-06-03": 50
     }
   }
 ]
