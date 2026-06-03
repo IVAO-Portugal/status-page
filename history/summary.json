@@ -4,17 +4,17 @@
     "url": "https://pt.ivao.aero/portal",
     "icon": "https://icons.duckduckgo.com/ip3/pt.ivao.aero.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "92.27%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "98.83%",
     "time": 1643,
     "timeDay": 2235,
-    "timeWeek": 2262,
-    "timeMonth": 2180,
-    "timeYear": 1634,
+    "timeWeek": 2241,
+    "timeMonth": 2178,
+    "timeYear": 1633,
     "dailyMinutesDown": {
       "2025-06-12": 278,
       "2025-06-14": 120,
@@ -87,7 +87,7 @@
       "2026-05-24": 125,
       "2026-05-27": 34,
       "2026-06-02": 35,
-      "2026-06-03": 76
+      "2026-06-03": 70
     }
   },
   {
@@ -100,7 +100,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.80%",
+    "uptimeYear": "74.79%",
     "time": 1305,
     "timeDay": 446,
     "timeWeek": 471,
@@ -164,7 +164,7 @@
       "2026-02-20": 5,
       "2026-02-21": 5,
       "2026-02-28": 5,
-      "2026-06-03": 451,
+      "2026-06-03": 471,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -259,17 +259,17 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "98.85%",
     "time": 2526,
-    "timeDay": 2235,
-    "timeWeek": 2447,
-    "timeMonth": 2699,
-    "timeYear": 2507,
+    "timeDay": 2234,
+    "timeWeek": 2438,
+    "timeMonth": 2696,
+    "timeYear": 2504,
     "dailyMinutesDown": {
       "2025-12-01": 32,
       "2025-12-02": 16,
@@ -325,7 +325,7 @@
       "2026-05-24": 125,
       "2026-05-27": 34,
       "2026-06-02": 35,
-      "2026-06-03": 76
+      "2026-06-03": 70
     }
   }
 ]
